@@ -1,0 +1,1 @@
+gcc -fno-stack-protector -m32 -no-pie ejercicio_5.c  -o data
